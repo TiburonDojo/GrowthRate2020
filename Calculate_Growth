@@ -1,6 +1,6 @@
 initial = 1
 changed = 60
-timeLapse = 26
+timeLapse = 28
 
 growth=((changed /initial) ** (1/timeLapse)-1)
 
